@@ -4,6 +4,9 @@ import java.time.*;
 
 class t{
     public static int a = 0;
+    public static void main(String[] args) {
+        System.out.println(a);
+    }
 }
 
 

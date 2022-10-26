@@ -8,6 +8,20 @@
             "type": "java",
             "name": "Launch test",
             "request": "launch",
+            "mainClass": "test",
+            "projectName": "Code_705ba762"
+        },
+        {
+            "type": "java",
+            "name": "Launch t",
+            "request": "launch",
+            "mainClass": "t",
+            "projectName": "Code_705ba762"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
             "mainClass": "java.test",
             "projectName": "Code_93772ecc"
         },
