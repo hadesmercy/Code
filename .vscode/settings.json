@@ -2,5 +2,6 @@
     "files.associations": {
         "files.autoGuessEncoding": "true",
         "iostream": "cpp"
-    }
+    },
+    "cmake.sourceDirectory": "${workspaceFolder}/cpp"
 }
